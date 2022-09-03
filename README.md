@@ -1,6 +1,4 @@
 # My-Portfolio-React
-<br>
-
 ## A Portfolio Website using React
 
 <hr>
