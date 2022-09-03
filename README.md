@@ -20,9 +20,11 @@ https://user-images.githubusercontent.com/98750053/188277976-0ae240f8-13dd-4f90-
 - Professional way to showcase your work<br>
 - Increases your visibility and online presence<br>
 - Shows you’re more than just a resume<br>
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
+## Getting Started with Create React App
+
+
 
 ## Available Scripts
 
