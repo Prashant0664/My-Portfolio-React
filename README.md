@@ -22,35 +22,6 @@ https://user-images.githubusercontent.com/98750053/188277976-0ae240f8-13dd-4f90-
 - Shows you’re more than just a resume<br>
 
 ## Procedure
-
-### 1. Create an **empty** repository on GitHub
-
-1. Sign into your GitHub account.
-2. Visit the [Create a new repository](https://github.com/new) form.
-3. Fill in the form as follows:
-    - **Repository name:** You can enter any name you want\*.
-
-        > \* For a [project site](https://pages.github.com/#project-site), you can enter any name you want. For a [user site](https://pages.github.com/#user-site), GitHub [requires](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites) that the repository's name have the following format: `{username}.github.io` (e.g. `gitname.github.io`)
-        
-        > The name you enter will show up in a few places: (a) in references to the repository throughout GitHub, (b) in the URL of the repository, and (c) in the URL of the deployed React app.
-
-        > In this tutorial, I'll be deploying the React app as a project site.
-
-        I'll enter: `react-gh-pages`
-        
-   - **Repository privacy:** Select _Public_ (or _Private_\*).
-
-        > \* For [GitHub Free](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-free-for-user-accounts) users, the only type of repository that can be used with GitHub Pages is _Public_. For [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) users (and other paying users), both _Public_ and _Private_ repositories can be used with GitHub Pages.
-
-        I'll choose: _Public_
-
-   - **Initialize repository:** Leave all checkboxes empty.
-
-        > That will make it so GitHub creates an empty repository, instead of pre-populating the repository with a `README.md`, `.gitignore`, and/or `LICENSE` file.
-4. Submit the form.
-
-At this point, your GitHub account contains an empty repository, having the name and privacy type that you specified.
-
 ### 2. Create a React app
 
 1. Create a React app named `my-app`:
