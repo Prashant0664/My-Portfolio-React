@@ -1,3 +1,29 @@
+# My-Portfolio-React
+<br>
+<hr>
+## A Portfolio Website using React
+<hr>
+
+
+https://user-images.githubusercontent.com/98750053/188277976-0ae240f8-13dd-4f90-9457-87c4bdc51f26.mp4
+<hr>
+
+### Features 
+⚡️Modern UI Design + Reveal Animations<br>
+⚡️Fully Responsive<br>
+⚡️Valid HTML5 & CSS3<br>
+⚡️Well organized documentation<br>
+⚡️Made Using React<br>
+<br>
+<hr>
+
+### Why do you need a portfolio?
+- Professional way to showcase your work<br>
+- Increases your visibility and online presence<br>
+- Shows you’re more than just a resume<br>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
