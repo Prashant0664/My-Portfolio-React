@@ -52,6 +52,10 @@ var About_Me=[
             Iresult:"--"},
         ],
         Projects:[
+            {Name:"Nike ECommerce Website",
+            Link:"https://https://nike-react-app.vercel.app/",
+            Time:"Nov 2022 - Nov 2022",
+            Desc:"This is a fully working front end NIKE WEBSITE made using React, Vite, Tailwind etc. "},
             {Name:"ToDo List using JavaScript",
             Link:"https://github.com/Prashant0664/TODO-LIST-PROJECT",
             Time:"May 2022 - May 2022",
@@ -69,7 +73,7 @@ var About_Me=[
             Time:"August 2022 - August 2022",
             Desc:"A Portfolio Website made using HTML, JS and CSS"},
             {Name:"Portfolio Website",
-            Link:"https://github.com/Prashant0664/My-Portfolio-React",
+            Link:"https://prashant0664.github.io/My-Portfolio-React/",
             Time:"August 2022 - September 2022",
             Desc:"A Portfolio Website made using React"},
             
